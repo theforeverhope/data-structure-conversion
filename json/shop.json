@@ -1,0 +1,342 @@
+{
+    "components": [
+        {
+            "childrens": [
+                {
+                    "childrens": [
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9999867677688599,
+                            "det": [
+                                122,
+                                188,
+                                278,
+                                217
+                            ],
+                            "height": 28,
+                            "id": "b966b72f-4e02-425d-83fd-5d4129e59382",
+                            "width": 156
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9999550580978394,
+                            "det": [
+                                18,
+                                272,
+                                167,
+                                291
+                            ],
+                            "height": 19,
+                            "id": "654af127-5923-4a83-a679-3eb6c52afad8",
+                            "width": 148
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.99993896484375,
+                            "det": [
+                                399,
+                                194,
+                                477,
+                                218
+                            ],
+                            "height": 24,
+                            "id": "758d21ea-28a4-42d0-91f4-3e46b6b5998b",
+                            "width": 77
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9999340772628784,
+                            "det": [
+                                184,
+                                239,
+                                231,
+                                262
+                            ],
+                            "height": 22,
+                            "id": "238e6a48-127a-445f-acdb-8a4e1add2ec3",
+                            "width": 46
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9998722076416016,
+                            "det": [
+                                116,
+                                232,
+                                176,
+                                263
+                            ],
+                            "height": 30,
+                            "id": "5a921790-4804-4eaf-b91d-1318b36fb919",
+                            "width": 59
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9842441082000732,
+                            "det": [
+                                358,
+                                239,
+                                472,
+                                262
+                            ],
+                            "height": 22,
+                            "id": "c5eda837-2784-40c2-8464-49ca5de47398",
+                            "width": 113
+                        },
+                        {
+                            "class_name": "tag",
+                            "confidence": 0.9998990297317505,
+                            "det": [
+                                238,
+                                234,
+                                314,
+                                265
+                            ],
+                            "height": 31,
+                            "id": "706de126-7180-499d-85ef-ef60a33b85f9",
+                            "width": 75
+                        },
+                        {
+                            "class_name": "img",
+                            "confidence": 0.9999464750289917,
+                            "det": [
+                                17,
+                                182,
+                                104,
+                                270
+                            ],
+                            "height": 87,
+                            "id": "1cf6f4d7-ca80-4e88-82fe-fb385b826bc9",
+                            "width": 87
+                        }
+                    ],
+                    "class_name": "list item",
+                    "confidence": 0.9999946355819702,
+                    "det": [
+                        0,
+                        172,
+                        499,
+                        305
+                    ],
+                    "height": 133,
+                    "id": "7798f6c7-bda3-403a-a76c-dbdf74d5126b",
+                    "width": 499
+                },
+                {
+                    "childrens": [
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9999886751174927,
+                            "det": [
+                                119,
+                                330,
+                                239,
+                                357
+                            ],
+                            "height": 27,
+                            "id": "26a3243a-fdb8-4d97-9f11-d9c671f2648e",
+                            "width": 119
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9999737739562988,
+                            "det": [
+                                20,
+                                415,
+                                171,
+                                434
+                            ],
+                            "height": 18,
+                            "id": "4fbbc6df-4bed-4a01-b226-b689887e6000",
+                            "width": 151
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9999651908874512,
+                            "det": [
+                                200,
+                                380,
+                                249,
+                                403
+                            ],
+                            "height": 22,
+                            "id": "ef1fdc4b-e5b9-468c-8da4-06d65238f698",
+                            "width": 49
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9999632835388184,
+                            "det": [
+                                117,
+                                372,
+                                197,
+                                403
+                            ],
+                            "height": 30,
+                            "id": "940bc33b-a581-4c8f-9d9d-0b52e048bb82",
+                            "width": 80
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9998871088027954,
+                            "det": [
+                                409,
+                                335,
+                                477,
+                                360
+                            ],
+                            "height": 25,
+                            "id": "2dfa875e-358c-4bfb-9c86-412b011aca57",
+                            "width": 68
+                        },
+                        {
+                            "class_name": "text",
+                            "confidence": 0.9856531620025635,
+                            "det": [
+                                334,
+                                381,
+                                470,
+                                403
+                            ],
+                            "height": 22,
+                            "id": "cff2731c-e05b-40cc-b9fa-bef50341d3df",
+                            "width": 136
+                        },
+                        {
+                            "class_name": "img",
+                            "confidence": 0.9999350309371948,
+                            "det": [
+                                17,
+                                323,
+                                104,
+                                410
+                            ],
+                            "height": 86,
+                            "id": "a1d186e8-6dad-4be4-8484-fbe1b8760bf7",
+                            "width": 87
+                        }
+                    ],
+                    "class_name": "list item",
+                    "confidence": 0.9999905824661255,
+                    "det": [
+                        0,
+                        306,
+                        499,
+                        445
+                    ],
+                    "height": 138,
+                    "id": "d5efc6db-cee7-4346-b7ad-f8a231f0d2ec",
+                    "width": 499
+                }
+            ],
+            "class_name": "list",
+            "confidence": 0.9974308609962463,
+            "det": [
+                0,
+                167,
+                499,
+                477
+            ],
+            "height": 310,
+            "id": "51820019-a773-4c37-822d-0cb55553b16d",
+            "width": 499
+        },
+        {
+            "childrens": [
+                {
+                    "class_name": "text",
+                    "confidence": 0.9999599456787109,
+                    "det": [
+                        138,
+                        125,
+                        181,
+                        152
+                    ],
+                    "height": 27,
+                    "id": "fff55a8b-b2e6-4fe5-bf29-f9c7ccd6be2c",
+                    "width": 43
+                },
+                {
+                    "class_name": "text",
+                    "confidence": 0.9999405145645142,
+                    "det": [
+                        448,
+                        125,
+                        498,
+                        152
+                    ],
+                    "height": 27,
+                    "id": "99d75a6b-3a0c-4567-9aec-5aaab23a160e",
+                    "width": 49
+                },
+                {
+                    "class_name": "text",
+                    "cmp_type": "basic",
+                    "confidence": 0.9999103546142578,
+                    "det": [
+                        252,
+                        126,
+                        297,
+                        153
+                    ],
+                    "height": 26,
+                    "id": "77b6f34e-9f79-4c19-87b4-b7826eda76a1",
+                    "width": 45
+                },
+                {
+                    "class_name": "text",
+                    "confidence": 0.9999102354049683,
+                    "det": [
+                        46,
+                        124,
+                        99,
+                        155
+                    ],
+                    "height": 31,
+                    "id": "b55eb20a-da07-49a5-9a32-0858239a167b",
+                    "width": 53
+                },
+                {
+                    "class_name": "text",
+                    "confidence": 0.9997984766960144,
+                    "det": [
+                        354,
+                        126,
+                        399,
+                        153
+                    ],
+                    "height": 27,
+                    "id": "d43c4950-588d-4dae-a967-70857e7dd0bc",
+                    "width": 44
+                },
+                {
+                    "class_name": "icon",
+                    "confidence": 0.9999175071716309,
+                    "det": [
+                        183,
+                        126,
+                        209,
+                        152
+                    ],
+                    "height": 25,
+                    "id": "00f4b064-b2ad-42a8-a0d6-8b8e2e338e70",
+                    "width": 25
+                }
+            ],
+            "class_name": "tab",
+            "confidence": 0.9999977350234985,
+            "det": [
+                0,
+                112,
+                499,
+                172
+            ],
+            "height": 59,
+            "id": "afcc3199-ac44-453d-92a2-ad7c6c0654dd",
+            "width": 499
+        }
+    ],
+    "height": 889,
+    "image_name": "shop.jpg",
+    "img_id": "shop",
+    "width": 500
+}
